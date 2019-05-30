@@ -1,0 +1,1 @@
+include ':app', ':rawfile201811', ':externalfile201811', ':sharedpref201811', ':sqlit201812', ':contentprovider201812', ':contentprovider2018122'
